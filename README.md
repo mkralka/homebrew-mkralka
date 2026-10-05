@@ -5,4 +5,5 @@ Install software from [mkralka's GitHub repositories](https://github.com/mkralka
 ```sh
 brew tap mkralka/mkralka
 brew install mkralka/mkralka/ctest
+brew install mkralka/mkralka/p13n
 ```
